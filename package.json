@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "description": "Create a `command line interface` that lets the user specify a file path and the nodejs process counts the number of words inside it.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+    
+    
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^5.4.1",
     "commander": "^14.0.0",
     "figlet": "^1.8.1",
     "gradient-string": "^3.0.0",

@@ -2,13 +2,17 @@ import figlet from "figlet";
 import inquirer from "inquirer";
 import gradient from "gradient-string";
 
+// const  figlet  = require('figlet');
+// const  inquirer = require('inquirer');
+// const  gradient  = require('gradient-string');
+
 // Declare a variable to store the user's name
 let userName;
 
 const greet = async () => {
 
     // Displaying Geeks CLI
-    figlet('Geeks CLI', function (err, data) {
+    figlet('Khushiii CLI', function (err, data) {
         console.log(data)
     });
 

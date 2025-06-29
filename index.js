@@ -1,5 +1,6 @@
-const fs = require('fs');
-const { Command } = require('commander');
+import fs from 'fs';
+import { Command } from 'commander';
+
 const program = new Command();
 
 program
@@ -13,7 +14,7 @@ program.command('count')
   .action((file) => {
     fs.readFile(file, 'utf8', (err, data) => {
       if (err) {
-        console.log(err);
+        console.error(err);
       } else {
         const lines = data.split('\n').length;
         console.log(`There are ${lines} lines in ${file}`);
@@ -22,3 +23,6 @@ program.command('count')
   });
 
 program.parse();
+
+// TO RUN ------
+// node index.js count file.txt
