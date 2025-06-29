@@ -1,0 +1,18 @@
+{
+  "name": "cli-node",
+  "version": "1.0.0",
+  "description": "Create a `command line interface` that lets the user specify a file path and the nodejs process counts the number of words inside it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^14.0.0",
+    "figlet": "^1.8.1",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.6.3"
+  }
+}
