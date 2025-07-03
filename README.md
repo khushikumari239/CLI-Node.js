@@ -1,31 +1,39 @@
-# CLI-Node.js
+# My First CLI Tool 🎨
 
-Create a `command line interface` that lets the user specify a file path and the nodejs process counts the number of words inside it.
+It wasn’t perfect, but I built it — and that’s the vibe 🌼
 
-```jsx
-Input - node index.js /Users/kirat/file.txt
-Output - You have 10 words in this file
-```
+![CLI Banner](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oepxu45vxd20n10dhm2x.jpg)
 
-Library to use - https://www.npmjs.com/package/commander
+Heyyy Devs 👋  
+It’s me, Khushi — A curious kid just figuring things out 🌸
 
-AND ALSO 
-Approach 2: We will create only a single function to greet the user. Within the greet() function there will be three sections. 
+This is not some expert-level project.  
+This is just a lil messy, random CLI tool I built while learning Node.js. 😭✨
 
-First, we will display the "Khushiii CLI" welcome message on the terminal. For this, we will be using the figlet package which is a program that generates texts based on ASCII characters. 
+---
 
-Secondly, we will prompt the user to enter his/her name in the terminal using the inquirer package and store it in a variable. 
+## 🌼 What is This?  
+A simple **Command Line Interface (CLI) tool** that:
+- Shows a cool welcome banner
+- Prompts the user’s name
+- Greets them back with colorful text
+- Counts the number of lines in a `.txt` file
 
-Lastly, we will greet the user with his/her name and also color the message using the gradients-string package.
+All this — straight in your terminal!
 
+---
 
-AND ALSO 🌼
-Filesystem based todo list.
+## 💻 Tech Stack
+- **Node.js**
+- **Commander** – CLI framework 👉 [Commander Docs](https://www.npmjs.com/package/commander)
+- **Figlet** – For cool banners 👉 [Figlet Docs](https://www.npmjs.com/package/figlet)
+- **Inquirer** – For user prompts 👉 [Inquirer Docs](https://www.npmjs.com/package/inquirer)
+- **Gradient-string** – For colorful terminal text 👉 [Gradient-String Docs](https://www.npmjs.com/package/gradient-string)
 
- Create a `cli` that lets a user
+---
 
- 1. Add a todo
- 2. Delete a todo
- 3. Mark a todo as done
+## 🚀 How to Run It?
 
- Store all the data in files (todos.json)
+1. **Clone the repo:**
+```bash
+git clone https://github.com/khushikumari239/CLI-Node.js.git
