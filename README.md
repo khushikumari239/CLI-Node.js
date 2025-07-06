@@ -1,102 +1,79 @@
-# My First CLI Tool 🎨
+My First CLI Tool +  Gemini CLI Playground 🌼
 
-It wasn’t perfect, but I built it — and that’s the vibe 🌼
+I’m Khushi — a curious kid just figuring things out 🌸
 
-![CLI Banner](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oepxu45vxd20n10dhm2x.jpg)
+This is not some expert project.
+It’s just me learning, vibing, and building random CLI tools while exploring Node.js and Google’s Gemini CLI.
 
-Heyyy Devs 👋  
-It’s me, Khushi — A curious kid just figuring things out 🌸
+<h2> Project 1: My First CLI Tool </h2>
+![image](https://github.com/user-attachments/assets/9bb5abd8-6c46-4e01-9524-843d864c869a)
 
-This is not some expert-level project.  
-This is just a lil messy, random CLI tool I built while learning Node.js. 😭✨
-
----
-
-## 🌼 What is This?  
-A simple **Command Line Interface (CLI) tool** that:
-- Shows a cool welcome banner
+🌼 Features
+- Cool welcome banner
 - Prompts the user’s name
-- Greets them back with colorful text
-- Counts the number of lines in a `.txt` file
+- Greets with colorful terminal text
+- Counts the number of lines in a .txt file
 
-All this — straight in your terminal!
+👉 A simple, sweet CLI — built from scratch in Node.js!
 
----
+💻 Tech Stack
+Node.js
 
-## 💻 Tech Stack
-- **Node.js**
-- **Commander** – CLI framework 👉 [Commander Docs](https://www.npmjs.com/package/commander)
-- **Figlet** – For cool banners 👉 [Figlet Docs](https://www.npmjs.com/package/figlet)
-- **Inquirer** – For user prompts 👉 [Inquirer Docs](https://www.npmjs.com/package/inquirer)
-- **Gradient-string** – For colorful terminal text 👉 [Gradient-String Docs](https://www.npmjs.com/package/gradient-string)
+- Commander – CLI framework (https://www.npmjs.com/package/commander)
+- Figlet – For cool banners (https://www.npmjs.com/package/figlet)
+- Inquirer – For user prompts(https://www.npmjs.com/package/inquirer)
+- Gradient-string – For colorful terminal text (https://www.npmjs.com/package/gradient-string)
 
----
-
-## 🚀 How to Run It?
-
-1. **Clone the repo:**
-```bash
+🚀 How to Run
 git clone https://github.com/khushikumari239/CLI-Node.js.git
+cd CLI-Node.js
+npm install
+node index.js
 
 
-Gemini CLI Playground 🚀
+<h2>🚀Project 2: Gemini CLI Playground</h2>
 Exploring Google’s Gemini CLI — a free, open-source, AI-powered coding buddy for your terminal.
 
-📦 About Gemini CLI
+📦 About Gemini CLI : - 
 🌸 Fully open-source
-
 🌸 Free with generous limits (thousands of requests per day!)
+🌸 Built by Google for developers who love the terminal
 
-🌸 Built by Google for developers who love the command line
+👉 Gemini CLI GitHub Repo :-  https://github.com/google-gemini/gemini-cli
+🔗My Github Repo :- https://github.com/khushikumari239/CLI-Node.js
 
-👉 Gemini CLI GitHub Repo
+Getting Started with Gemini CLI
+It’s super simple to install 👇
+![image](https://github.com/user-attachments/assets/5088e69a-0e16-430e-b532-a0ae4fdb0eb0)
 
-🚀 Installation
-bash
-Copy code
-npm install -g @google/gemini-cli
-Run it with:
+yess, just that easy. One line of code and you’re in.
 
-bash
-Copy code
-gemini
+Here are some sweet screenshots I grabbed while playing around with it:-
+I tried to build a tic-tac-toe app using javaScript...
 
+I Built a Tic-Tac-Toe App 🎮
+Just to test the vibe, I asked Gemini to help me build a Tic-Tac-Toe app in JavaScript.
 
-🎮 My Fun Build: Tic-Tac-Toe Game
-Steps:
-Installed Gemini CLI ✅
+Here's what I did:
 
-Ran gemini in the terminal ✅
+Installed Gemini CLI
+- Ran gemini in my terminal
+- Wrote the prompt for Tic-Tac-Toe
+- It instantly started generating the code — BOOMMM 💥
+- I ran it… and there was the magic ✨
 
-Prompted: Build Tic-Tac-Toe in JavaScript ✅
+Look at thisss:
+![image](https://github.com/user-attachments/assets/909a39e4-23df-483f-9650-885b19463e7e)
 
-Got instant code from Gemini CLI ✅
+![image](https://github.com/user-attachments/assets/86354f38-b14a-4d8c-9eda-028db0960ffa)
 
-Ran the code and tested the game ✅
+![image](https://github.com/user-attachments/assets/94fda907-5fda-4ecd-b078-68ac3a2e0f9a)
 
-📸 Screenshots
-Gemini CLI Initial Run
-![image](https://github.com/user-attachments/assets/4fc1c528-3182-4069-aea6-7b7938bba265)
+![image](https://github.com/user-attachments/assets/6e16388c-9605-4e01-b668-5e483147c18c)
 
-Prompt: Tic-Tac-Toe in JavaScript
-![image](https://github.com/user-attachments/assets/3a892bd2-c518-43d0-9997-526f31502a86)
-
-Generated Code
-
-![image](https://github.com/user-attachments/assets/eb30abc2-dd8c-4a39-a10c-4275652d6084)
-
-Running the Game
-![image](https://github.com/user-attachments/assets/a1a2f312-fd73-4967-a183-adee182c92cc)
-
-Game Output
-![image](https://github.com/user-attachments/assets/536c3e05-6576-4b9d-acad-4f40c4d85b56)
+![image](https://github.com/user-attachments/assets/cc77099d-3667-49ec-9b06-2f60e7c1d8ef)
 
 
-More Output Views
-![image](https://github.com/user-attachments/assets/6ff51f75-c138-41e5-a63d-963d28ed2a1d)
 
 
-🔗 Connect With Me
-GitHub: khushikumari239
 
-Twitter: [@khushimehappy] 
