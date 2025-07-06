@@ -6,7 +6,7 @@ This is not some expert project.
 It’s just me learning, vibing, and building random CLI tools while exploring Node.js and Google’s Gemini CLI.
 
 <h2> Project 1: My First CLI Tool </h2>
-![image](https://github.com/user-attachments/assets/9bb5abd8-6c46-4e01-9524-843d864c869a)
+![image](https://github.com/user-attachments/assets/4b80721b-1e83-427c-b0a4-c9716511b94f)
 
 🌼 Features
 - Cool welcome banner
